@@ -34,13 +34,14 @@ height: 500px;
 
 border-radius: 16px;
 
-margin: 0px 200px;
+margin: 0px 300px;
 }
 .containar{
-    width: 80%;
+    width: 67%;
     color: aliceblue;
     text-align: center;
     padding-top: 80px;
+
 }
 .input{
     display: inline-flex;
@@ -92,16 +93,15 @@ font-weight: 700;
 }
 /*main 1st section style */
 .main-1st-section{
-    width: 1448;
     display: flex;
-    margin-left: 200px ;
+    margin-left: 350px ;
     margin-top: 50px;
     background: #FFF;
 }
 .main-1st-section > div >h1 {
     color: #131318;
 font-size: 40px;
-font-weight: 800;
+font-weight: 100;
 }
 .main-1st-section > div h3{
     width: 577px;
